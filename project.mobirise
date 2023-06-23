@@ -54,7 +54,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "zcpwkbacet",
+    "mbrsiteDomain": "gacngevgzn",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -66,11 +66,11 @@
     "canonical-url": "https://maestrosybrujos.com",
     "site_lang": "es",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "global_header_custom": "\n",
-    "global_after_body": "",
+    "global_header_custom": "\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MP7CSWB');</script>\n<!-- End Google Tag Manager -->",
+    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MP7CSWB\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
     "publishChangesOnly": true,
     "screenshot": "screenshot.png",
-    "cssOptimize": false,
+    "cssOptimize": true,
     "global_footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/63c0b500c2f1ac1e202d2c23/1gmkc62am';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
   },
   "pages": {
